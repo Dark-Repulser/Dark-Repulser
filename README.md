@@ -24,9 +24,9 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Python, N8N, Zoho, Deluge, Postgres, Oracle DB**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **front-end UI/UX.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in integrating front-end development into my skill set. So,I'm learning **fronr-end with REACT**
 
 - 💬 Ask me about **Python, N8N, Zoho, Deluge, Postgres, Oracle DB**
 
